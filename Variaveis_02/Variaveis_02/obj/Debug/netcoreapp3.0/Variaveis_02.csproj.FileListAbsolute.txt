@@ -1,0 +1,11 @@
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.exe
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.deps.json
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.runtimeconfig.json
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.runtimeconfig.dev.json
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.dll
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.pdb
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.csprojAssemblyReference.cache
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.AssemblyInfoInputs.cache
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.AssemblyInfo.cs
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.dll
+d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.pdb

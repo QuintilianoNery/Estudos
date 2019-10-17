@@ -1,0 +1,11 @@
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.AssemblyInfoInputs.cache
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.AssemblyInfo.cs
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.exe
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.deps.json
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.runtimeconfig.json
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.runtimeconfig.dev.json
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.dll
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.pdb
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.dll
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.pdb
+D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.csprojAssemblyReference.cache
