@@ -1,0 +1,55 @@
+Curso C# 
+Visual Studio Community 2015
+
+2º aula - Tipos de variaveis e conversões
+
+string - Conjunto de chars (2 bytes para cada letra)
+int - 4 bytes (Apenas números inteiros)
+float - 4 bytes (Numeros decimais, valores com virgula)
+double - 8 bytes (Numeros decimais, valores com virgula) Maior que o float
+boleano - 1 byte (apenas dois caracteres true ou false)
+decimal - 16 bytes (Numeros decimais) mais do que o double
+char - Apenas 2 bytes apenas uma letra (apenas um caractere, letra ou numero '')
+long - 8 bytes parecido com o int, maior que o (int) do tipo inteiro
+byte - 1 byte
+uint - 4 bytes vai de 0 a 4000..
+sbyte - 1byte vai de 128 a 127
+shrot - 2 bytes aceita numeros negativos
+ushort -2 bytes não aceita numeros negativos
+ulong - 8 bytes 
+
+Conversões
+convert.toString()
+convert. toInt
+convert.toFloat
+var inteiro = (int) "1"
+
+3º aulo - Ooperadores logicos e condicionais
+
+Condicioinais
+	if
+	else
+	()
+	{}
+	switch
+
+Tipos de condicionais
+	* Comum (if, else)
+	* Case (Switch)
+	* Ternario (1==1? "OK": "Não")
+
+Operadores
+== Comparação
+!  Not, negando
+!= Diferente
+&& e
+|| Ou
+<  maior
+>  Menor
++
+-
+*
+/
+
+
+
