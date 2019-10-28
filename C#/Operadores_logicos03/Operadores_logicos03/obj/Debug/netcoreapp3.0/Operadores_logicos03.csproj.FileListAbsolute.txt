@@ -9,3 +9,14 @@ D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\
 D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.dll
 D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.pdb
 D:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.csprojAssemblyReference.cache
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.exe
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.deps.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.runtimeconfig.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.runtimeconfig.dev.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.dll
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\bin\Debug\netcoreapp3.0\Operadores_logicos03.pdb
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.AssemblyInfoInputs.cache
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.AssemblyInfo.cs
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.dll
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.pdb
+D:\Meus Repositorios\C#\Operadores_logicos03\Operadores_logicos03\obj\Debug\netcoreapp3.0\Operadores_logicos03.csprojAssemblyReference.cache

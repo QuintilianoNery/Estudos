@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\Quintiliano\\Documents\\Repositorio\\Operadores_logicos03\\Operadores_logicos03\\Operadores_logicos03.csproj",
+      "projectUniqueName": "D:\\Meus Repositorios\\C#\\Operadores_logicos03\\Operadores_logicos03\\Operadores_logicos03.csproj",
       "projectName": "Operadores_logicos03",
-      "projectPath": "d:\\Users\\Quintiliano\\Documents\\Repositorio\\Operadores_logicos03\\Operadores_logicos03\\Operadores_logicos03.csproj",
+      "projectPath": "D:\\Meus Repositorios\\C#\\Operadores_logicos03\\Operadores_logicos03\\Operadores_logicos03.csproj",
       "packagesPath": "C:\\Users\\Quintiliano\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\Quintiliano\\Documents\\Repositorio\\Operadores_logicos03\\Operadores_logicos03\\obj\\",
+      "outputPath": "D:\\Meus Repositorios\\C#\\Operadores_logicos03\\Operadores_logicos03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quintiliano\\AppData\\Roaming\\NuGet\\NuGet.Config",

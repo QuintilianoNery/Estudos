@@ -11,8 +11,11 @@ namespace Operadores_logicos03
     {
         static void Main(string[] args)
         {
-            var a = 3;
-            /*            
+            var a = 1;
+
+
+            /*  
+             //IF and Else
             if (a == 1)
             {
                 Console.WriteLine("entrou na condição do if");             
@@ -26,8 +29,8 @@ namespace Operadores_logicos03
                 Console.WriteLine("Caiu no bloco do else");
             }
 
-            */
-
+            
+            //switch
             switch (a)
             {
                 case 1:
@@ -40,8 +43,15 @@ namespace Operadores_logicos03
                     Console.WriteLine("Caso Padrão");
                     break;
             }
+            */
+            //Isso em ternário depois
 
-            Console.WriteLine("olá nana");
+            // Cod anterior em ternário
+            // Então pode ser representado por ? e o senão pode ser representado por :
+           
+            string teste = (a == 1 ? "O valor de a" : "mais um");
+            Console.WriteLine("Olá pessoal" + teste);
+
             //Console.Read ele mantem a execução do códico onde foi apresentado o texto e não continua a execução
             Console.Read();
              
