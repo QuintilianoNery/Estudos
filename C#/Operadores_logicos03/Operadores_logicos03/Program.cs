@@ -11,7 +11,7 @@ namespace Operadores_logicos03
     {
         static void Main(string[] args)
         {
-            var a = 1;
+            //var a = 2;
 
 
             /*  
@@ -44,13 +44,28 @@ namespace Operadores_logicos03
                     break;
             }
             */
-            //Isso em ternário depois
+            // Ternários 
+            // Então pode ser representado por ? e o senão pode ser representado por :           
+            //string teste = (a == 1 ? "O valor de então" : "mais um senão ");
 
-            // Cod anterior em ternário
-            // Então pode ser representado por ? e o senão pode ser representado por :
-           
-            string teste = (a == 1 ? "O valor de a" : "mais um");
-            Console.WriteLine("Olá pessoal" + teste);
+            //Operadores
+            //Posso utilizar os operadores matemáticos +-*/
+            //Operadores lógicos, gerdalmente é usado junto com o If, else
+            var b = 4;
+
+            if (b < 2)
+            {
+                Console.WriteLine("IF!");
+            }
+            else
+            {
+                Console.WriteLine("Else com: "+ b);
+            }
+
+            
+
+
+            
 
             //Console.Read ele mantem a execução do códico onde foi apresentado o texto e não continua a execução
             Console.Read();
