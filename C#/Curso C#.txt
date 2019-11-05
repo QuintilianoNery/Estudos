@@ -52,4 +52,12 @@ Operadores
 /
 
 
+Aula 4 Loop
 
+while - Enquanto
+while ()
+
+do while
+for
+for each
+funções recursivas

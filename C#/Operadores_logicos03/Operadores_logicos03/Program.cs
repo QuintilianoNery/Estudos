@@ -43,13 +43,13 @@ namespace Operadores_logicos03
                     Console.WriteLine("Caso Padrão");
                     break;
             }
-            */
+            
             // Ternários 
             // Então pode ser representado por ? e o senão pode ser representado por :           
             //string teste = (a == 1 ? "O valor de então" : "mais um senão ");
 
             //Operadores
-            //Posso utilizar os operadores matemáticos +-*/
+            //Posso utilizar os operadores matemáticos +-* /
             //Operadores lógicos, gerdalmente é usado junto com o If, else
             var b = 4;
 
@@ -60,13 +60,12 @@ namespace Operadores_logicos03
             else
             {
                 Console.WriteLine("Else com: "+ b);
-            }
+            }*/
 
             
 
 
             
-
             //Console.Read ele mantem a execução do códico onde foi apresentado o texto e não continua a execução
             Console.Read();
              
