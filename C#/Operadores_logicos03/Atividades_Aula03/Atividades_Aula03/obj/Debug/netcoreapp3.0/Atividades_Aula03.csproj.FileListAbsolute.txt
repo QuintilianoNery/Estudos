@@ -1,0 +1,11 @@
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\obj\Debug\netcoreapp3.0\Atividades_Aula03.AssemblyInfoInputs.cache
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\obj\Debug\netcoreapp3.0\Atividades_Aula03.AssemblyInfo.cs
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.exe
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.deps.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.runtimeconfig.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.runtimeconfig.dev.json
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.dll
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\bin\Debug\netcoreapp3.0\Atividades_Aula03.pdb
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\obj\Debug\netcoreapp3.0\Atividades_Aula03.dll
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\obj\Debug\netcoreapp3.0\Atividades_Aula03.pdb
+D:\Meus Repositorios\C#\Operadores_logicos03\Atividades_Aula03\Atividades_Aula03\obj\Debug\netcoreapp3.0\Atividades_Aula03.csprojAssemblyReference.cache

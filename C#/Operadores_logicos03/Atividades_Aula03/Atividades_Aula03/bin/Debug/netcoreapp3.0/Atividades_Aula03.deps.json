@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Atividades_Aula03/1.0.0": {
+        "runtime": {
+          "Atividades_Aula03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividades_Aula03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
