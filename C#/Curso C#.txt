@@ -1,6 +1,8 @@
 Curso C# 
 Visual Studio Community 2015
 
+-------------------------------
+-------------------------------
 2º aula - Tipos de variaveis e conversões
 
 string - Conjunto de chars (2 bytes para cada letra)
@@ -24,7 +26,10 @@ convert. toInt
 convert.toFloat
 var inteiro = (int) "1"
 
-3º aulo - Ooperadores logicos e condicionais
+-------------------------------
+-------------------------------
+
+3º aula - Ooperadores logicos e condicionais
 
 Condicioinais
 	if
@@ -50,14 +55,15 @@ Operadores
 -
 *
 /
-
-
+-------------------------------
+-------------------------------
 Aula 4 Loop
 
 while - Enquanto
-while ()
-
 do while
 for
 for each
 funções recursivas
+
+A=a+1 ou A++
+

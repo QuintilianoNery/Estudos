@@ -1,0 +1,11 @@
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.exe
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.deps.json
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.runtimeconfig.json
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.runtimeconfig.dev.json
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.dll
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\bin\Debug\netcoreapp3.0\Prática.pdb
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\obj\Debug\netcoreapp3.0\Prática.csprojAssemblyReference.cache
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\obj\Debug\netcoreapp3.0\Prática.AssemblyInfoInputs.cache
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\obj\Debug\netcoreapp3.0\Prática.AssemblyInfo.cs
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\obj\Debug\netcoreapp3.0\Prática.dll
+D:\Meus Repositorios\C#\Loops_04\Prática\Prática\Prática\obj\Debug\netcoreapp3.0\Prática.pdb
