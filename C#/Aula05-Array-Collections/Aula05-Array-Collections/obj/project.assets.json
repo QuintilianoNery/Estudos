@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
-      "projectName": "Variaveis_02",
-      "projectPath": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
+      "projectUniqueName": "D:\\Meus Repositorios\\C#\\Aula05-Array-Collections\\Aula05-Array-Collections\\Aula05-Array-Collections.csproj",
+      "projectName": "Aula05-Array-Collections",
+      "projectPath": "D:\\Meus Repositorios\\C#\\Aula05-Array-Collections\\Aula05-Array-Collections\\Aula05-Array-Collections.csproj",
       "packagesPath": "C:\\Users\\Quintiliano\\.nuget\\packages\\",
-      "outputPath": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\obj\\",
+      "outputPath": "D:\\Meus Repositorios\\C#\\Aula05-Array-Collections\\Aula05-Array-Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quintiliano\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,3 +9,14 @@ d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variavei
 d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.AssemblyInfo.cs
 d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.dll
 d:\Users\Quintiliano\Documents\Visual Studio 2019\Projetos\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.pdb
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.exe
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.deps.json
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.runtimeconfig.json
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.runtimeconfig.dev.json
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.dll
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\bin\Debug\netcoreapp3.0\Variaveis_02.pdb
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.csprojAssemblyReference.cache
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.AssemblyInfoInputs.cache
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.AssemblyInfo.cs
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.dll
+D:\Meus Repositorios\C#\Variaveis_02\Variaveis_02\obj\Debug\netcoreapp3.0\Variaveis_02.pdb
