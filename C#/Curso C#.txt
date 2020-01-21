@@ -67,3 +67,35 @@ funções recursivas
 
 A=a+1 ou A++
 
+-------------------------------
+-------------------------------
+
+Aula 05 Array e COLLECTIONS
+
+Tipos utilizados nos arrays
+String, int, bool, double
+
+É uma coleção de dados
+sintax
+
+Tipo [] A = new tipo [3] ou 
+var A = new tipo [3]
+
+todo array tem um índice = é a posição que cada elemento se encontra
+
+
+Ex: A[indice]
+acessar a segunda posição da lista 2, 5 e 6
+A[1]
+A = 5
+
+Sintax COLLECTIONS
+
+List <tipo> A = new list <tipo> () ou
+var A = new list <tipo> ()
+
+
+
+
+
+
