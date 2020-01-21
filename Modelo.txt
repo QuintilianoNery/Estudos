@@ -1,0 +1,12 @@
+Modelo
+Modelo entidade relacionamento
+------------------------------
+
+- Condomínio
+- Bloco
+- Apartamento
+- Pessoas
+- Automóveis
+- Vaga Garagem
+- Funcionários
+- Cargo
