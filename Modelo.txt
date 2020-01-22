@@ -3,32 +3,32 @@ Modelo entidade relacionamento
 ------------------------------
 
 - Condomínio
-id
+idCondominio
 Nome
 CNPJ
 Síndico
 Subsíndico
 
 - Endereços
-id
+idEndereco
 Logradouro
 Bairro
 Número
 CEP
 
 - Bloco
-id
+idBloco
 Número do bloco
 Andares
 Apartamentos por andares
 
 - Apartamento
-id
+idApartamentos
 Número
 Quitado?
 
 - Pessoas
-id
+idPessoa
 Tipo pessoa
 Nome/Razão social
 CPF/CNPJ
@@ -43,7 +43,7 @@ Ativo?
 Observações
 
 - Veículo
-id
+idVeiculo
 Tipo de uso? (Próprio/terceiros)
 placa
 UF
