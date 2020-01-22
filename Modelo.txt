@@ -3,10 +3,55 @@ Modelo entidade relacionamento
 ------------------------------
 
 - Condomínio
+id
+Nome
+CNPJ
+Síndico
+Subsíndico
+
+- Endereços
+id
+Logradouro
+Bairro
+Número
+CEP
+
 - Bloco
+id
+Número do bloco
+Andares
+Apartamentos por andares
+
 - Apartamento
+id
+Número
+Quitado?
+
 - Pessoas
-- Automóveis
+id
+Tipo pessoa
+Nome/Razão social
+CPF/CNPJ
+RG
+Inscrição estadual
+Isento
+Data de cadastro
+Data de Nascimento
+E-mail
+Telefone
+Ativo?
+Observações
+
+- Veículo
+id
+Tipo de uso? (Próprio/terceiros)
+placa
+UF
+Renavam
+
+
 - Vaga Garagem
+
 - Funcionários
+
 - Cargo
