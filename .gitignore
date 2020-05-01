@@ -288,3 +288,4 @@ __pycache__/
 *.xsd.cs
 
 .vscode/
+Cypress/Curso-Cypress/Comandos Cypress.txt
