@@ -1,0 +1,16 @@
+mostre = alert()
+leia = prompt()
+converta = parseint()
+
+p = 30
+alert("Digite o salário do dia 20: ")
+d20 = prompt()
+d20 = parseInt(d20)
+alert("Digite o salário do dia 5: ")
+d5 = prompt()
+d5 = parseInt(d5)
+salario = (d20+d5)
+patrimonio = ((salario)*p)/100
+gastar = salario - patrimonio
+alert("Posso gastar " + gastar)
+alert("Tenho que guardar " + patrimonio)

@@ -1,0 +1,88 @@
+Modelo
+Modelo entidade relacionamento
+Ferramenta: https://app.sqldbm.com/SQLServer/Draft/
+------------------------------
+
+- Condomínio *
+idCondominio
+Nome
+CNPJ
+Síndico (localizar pessoa)
+Subsíndico(localizar pessoa)
+Endereço
+
+- Endereços *
+idEndereco
+Logradouro
+Bairro
+Número
+CEP
+
+- Bloco *
+idBloco
+Número do bloco
+Andares
+Apartamentos por andares
+
+- Apartamento *
+idApartamentos
+Número
+Quitado?
+
+- Pessoas *
+idPessoa
+Tipo pessoa
+Nome/Razão social
+CPF/CNPJ
+RG
+Inscrição estadual
+Isento
+Data de cadastro
+Data de Nascimento
+E-mail
+Telefone
+Ativo?
+Observações
+
+- Veículo *
+idVeiculo
+Tipo de uso? (Próprio/terceiros)
+placa
+UF
+Renavam
+
+- Vaga Garagem *
+idGaragem
+Nº Bloco
+Nº Apartamento
+Nº Garagem
+
+- Funcionários
+idFuncionário
+Pessoa (No caso deve localizar o funcionário cadastrado em pessoas)
+Função (Recebe o cargo)
+Data de Admissão
+
+Documentos:
+Carteira de Trabalho
+Série
+Estado
+Identidade
+Data de Emissão
+Órgão Expeditor
+Título de Eleitor
+Zona
+Seção
+CPF
+PIS/PASEP
+Carteira de Motorista
+Categoria
+Validade
+
+
+
+
+- Cargo
+idCargo
+Nome do cargo
+Informações adicionais

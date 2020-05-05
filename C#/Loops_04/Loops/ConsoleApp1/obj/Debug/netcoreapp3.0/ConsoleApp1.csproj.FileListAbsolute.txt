@@ -1,0 +1,11 @@
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Meus Repositorios\C#\Loops_04\Loops\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

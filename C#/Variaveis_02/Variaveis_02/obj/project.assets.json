@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Users\\Quintiliano\\Documents\\Visual Studio 2019\\Projetos\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
+      "projectUniqueName": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
       "projectName": "Variaveis_02",
-      "projectPath": "d:\\Users\\Quintiliano\\Documents\\Visual Studio 2019\\Projetos\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
+      "projectPath": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\Variaveis_02.csproj",
       "packagesPath": "C:\\Users\\Quintiliano\\.nuget\\packages\\",
-      "outputPath": "d:\\Users\\Quintiliano\\Documents\\Visual Studio 2019\\Projetos\\Variaveis_02\\Variaveis_02\\obj\\",
+      "outputPath": "D:\\Meus Repositorios\\C#\\Variaveis_02\\Variaveis_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quintiliano\\AppData\\Roaming\\NuGet\\NuGet.Config",

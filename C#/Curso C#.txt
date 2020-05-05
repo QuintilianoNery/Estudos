@@ -1,6 +1,8 @@
 Curso C# 
 Visual Studio Community 2015
 
+-------------------------------
+-------------------------------
 2º aula - Tipos de variaveis e conversões
 
 string - Conjunto de chars (2 bytes para cada letra)
@@ -24,7 +26,10 @@ convert. toInt
 convert.toFloat
 var inteiro = (int) "1"
 
-3º aulo - Ooperadores logicos e condicionais
+-------------------------------
+-------------------------------
+
+3º aula - Ooperadores logicos e condicionais
 
 Condicioinais
 	if
@@ -50,14 +55,47 @@ Operadores
 -
 *
 /
-
-
+-------------------------------
+-------------------------------
 Aula 4 Loop
 
 while - Enquanto
-while ()
-
 do while
 for
 for each
 funções recursivas
+
+A=a+1 ou A++
+
+-------------------------------
+-------------------------------
+
+Aula 05 Array e COLLECTIONS
+
+Tipos utilizados nos arrays
+String, int, bool, double
+
+É uma coleção de dados
+sintax
+
+Tipo [] A = new tipo [3] ou 
+var A = new tipo [3]
+
+todo array tem um índice = é a posição que cada elemento se encontra
+
+
+Ex: A[indice]
+acessar a segunda posição da lista 2, 5 e 6
+A[1]
+A = 5
+
+Sintax COLLECTIONS
+
+List <tipo> A = new list <tipo> () ou
+var A = new list <tipo> ()
+
+
+
+
+
+
