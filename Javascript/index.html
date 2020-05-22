@@ -6,14 +6,22 @@
 <body>
     <script>
 
-        //Código Java Script
-        function soma(num1, num2){
-            var resultado = num1 + num2;
+        //Código Java Script sempre no final
+        function retornaSexo(sexo){
+            //Retorna  M ou F
+            //Masculino ou feminino
+            if (sexo === 'M') {
+                return 'Masculino';
+                }else if (sexo === 'F') { 
+                    return 'Feminino';
+                } else{
+                    return 'Outro';
+                }
 
-            return resultado;
-        }
 
-        var resultado = soma(1, 2);
+            }
+
+        var resultado = retornaSexo('F');
 
         console.log(resultado);
 
