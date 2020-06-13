@@ -8,20 +8,21 @@
 
         //Código Java Script sempre no final
         function retornaSexo(sexo){
-            //Retorna  M ou F
-            //Masculino ou feminino
-            if (sexo === 'M') {
-                return 'Masculino';
-                }else if (sexo === 'F') { 
+            switch (sexo) {
+                case 'M':
+                    return 'Masculino';
+                case 'm':
+                    return 'Masculino';
+                case 'F':
                     return 'Feminino';
-                } else{
+                case 'f':
+                    return 'Feminino';
+                default: 
                     return 'Outro';
-                }
-
-
+            }
             }
 
-        var resultado = retornaSexo('F');
+        var resultado = retornaSexo('f');
 
         console.log(resultado);
 
