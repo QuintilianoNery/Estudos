@@ -1,32 +1,30 @@
 <html>
 
 <head>
-    <title>Js - Quintiliano</title>
+    <title>Curso Java Script - Quintiliano</title>
 </head>
 <body>
     <script>
 
         //Código Java Script sempre no final
-       function retornasexo(sexo){
-           //M, F
-           //Masculino, Feminino
+        function retornaSexo(sexo){
+            //Retorna  M ou F
+            //Masculino ou feminino
+            if (sexo === 'M') {
+                return 'Masculino';
+                }else if (sexo === 'F') { 
+                    return 'Feminino';
+                } else{
+                    return 'Outro';
+                }
 
-           if (sexo === 'M'){
-               return 'Masculino';
-           } else if(sexo === 'F'){
-               return 'Feminino';
-           } 
-           else if (sexo === 'm'){
-               return 'Masculino';
-           } else if(sexo === 'f'){
-               return 'Feminino';
-           }else{
-               return 'Outro'
-           }
-       }
 
-       var resultado = retornasexo ('f');
-       console.log(resultado);
+            }
+
+        var resultado = retornaSexo('F');
+
+        console.log(resultado);
+
     </script>
 </body>
 
